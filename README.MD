@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Django.**
 
-- 💬 Ask me about **Python,Golang,Space.**
+- 💬 Ask me about **Python,Golang & Space🌌**
 
 - 📫 How to reach me **ranbirdas176@gmail.com**
 
